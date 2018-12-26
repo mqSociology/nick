@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2167532829",
+    "hash" : "0",
     "id" : "C09DA4A4",
-    "lastKnownWriteTime" : 1545743921,
-    "last_content_update" : 1545743921,
+    "lastKnownWriteTime" : 1545792847,
+    "last_content_update" : 1545792847615,
     "path" : "~/nick/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "10,1",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
